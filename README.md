@@ -1,7 +1,3 @@
-Perfeito! Aqui está um **README.md completo** já com **todo o código essencial** (Model, Repository, Controller, Seeder, `application.properties`, `build.gradle`) e exemplos de uso. É só colar no seu repositório. 👇
-
----
-
 # 🚀 Assistência Técnica – Spring Boot + PostgreSQL
 
 API REST em **Java 17** com **Spring Boot** e **PostgreSQL**, criada **para fins de portfólio e aprendizagem**.
@@ -366,7 +362,3 @@ Projeto **para portfólio e aprendizagem**, praticando:
 ## 👤 Autor
 
 **Erick Xavier** • Projeto acadêmico/experimental (não destinado a produção).
-
----
-
-Se quiser, eu também te mando um **`.gitignore` pronto** e um **guia Git** em anexo ao README.
