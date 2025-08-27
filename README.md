@@ -273,8 +273,8 @@ public class DatabaseSeeder implements CommandLineRunner {
             c1.setNome("João da Silva");
             c1.setCpfCnpj("12345678900");
             c1.setEmail("joao@email.com");
-            c1.setTelefone("32999998888");
-            c1.setCidade("Viçosa");
+            c1.setTelefone("31999998888");
+            c1.setCidade("Belo Horizonte");
             c1.setEstado("MG");
             clienteRepository.save(c1);
 
@@ -282,8 +282,8 @@ public class DatabaseSeeder implements CommandLineRunner {
             c2.setNome("Maria Oliveira");
             c2.setCpfCnpj("98765432100");
             c2.setEmail("maria@email.com");
-            c2.setTelefone("32888887777");
-            c2.setCidade("Cataguases");
+            c2.setTelefone("31888887777");
+            c2.setCidade("Belo Horizonte");
             c2.setEstado("MG");
             clienteRepository.save(c2);
 
@@ -306,8 +306,8 @@ Body (JSON):
   "nome": "João da Silva",
   "cpfCnpj": "12345678900",
   "email": "joao@email.com",
-  "telefone": "32999998888",
-  "cidade": "Viçosa",
+  "telefone": "31999998888",
+  "cidade": "Belo Horizonte",
   "estado": "MG"
 }
 ```
@@ -326,8 +326,8 @@ Retorna um cliente específico.
 curl -X POST http://localhost:8080/clientes \
   -H "Content-Type: application/json" \
   -d '{ "nome":"João da Silva","cpfCnpj":"12345678900",
-        "email":"joao@email.com","telefone":"32999998888",
-        "cidade":"Viçosa","estado":"MG" }'
+        "email":"joao@email.com","telefone":"31999998888",
+        "cidade":"Belo Horizonte","estado":"MG" }'
 
 curl http://localhost:8080/clientes
 ```
@@ -361,4 +361,4 @@ Projeto **para portfólio e aprendizagem**, praticando:
 
 ## 👤 Autor
 
-**Erick Xavier** • Projeto acadêmico/experimental (não destinado a produção).
+**Erick Xavier**,**Raienny Firmino**,**Pedro Queiroz**,**Ana Luiza Vidigal • Projeto acadêmico/experimental (não destinado a produção).
