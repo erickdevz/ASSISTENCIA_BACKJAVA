@@ -359,6 +359,6 @@ Projeto **para portfólio e aprendizagem**, praticando:
 
 ---
 
-## 👤 Autor
+## 👤 Autores
 
-**Erick Xavier**,**Raienny Firmino**,**Pedro Queiroz**,**Ana Luiza Vidigal • Projeto acadêmico/experimental (não destinado a produção).
+**Erick Xavier**, **Raienny Firmino**, **Pedro Queiroz**, **Ana Luiza Vidigal"" • Projeto acadêmico/experimental (não destinado a produção).
